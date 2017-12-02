@@ -5,7 +5,7 @@ export default class CreateUserWizard extends React.Component {
   render() {
     return (
       <div>
-        <InputField />
+        <InputField placeholder='Your first name' />
       </div>
     );
   }
