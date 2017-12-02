@@ -1,0 +1,7 @@
+.roleSelection {
+  text-align: center;
+}
+
+.roleButton:first-of-type {
+  margin-right: 30px;
+}
